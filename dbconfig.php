@@ -1,5 +1,5 @@
 <?php
 $host='localhost';
 $db = 'moussdiouf';
-$username = 'userreadonly';
-$password = 'P@ssw0rd'; 
+$username = $_POST['identifiant'];
+$password = $_POST['motdepass']; 

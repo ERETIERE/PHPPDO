@@ -1,3 +1,6 @@
+<?php
+    require_once 'PDO.php';
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,15 +12,13 @@
     <script src="main.js"></script>
 </head>
 <body>
-<div class="login-page">
-  <div class="form">
-    <form class="login-form" form action="page2.php" method="post">
-      <input type="text" placeholder="username" name="identifiant"/>
-      <input type="password" placeholder="password" name="motdepass"/>
-      <button type="submit" name="connexion">connexion</button>
-    </form>
-  </div>
-</div>
+    <div class="A1">
+    
+    
+
+
+            
+    </div>
   <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
     <script  src="js/index.js"></script>
