@@ -11,7 +11,7 @@
 <body>
 <div class="login-page">
   <div class="form">
-    <form class="login-form" form action="page2.php" method="post">
+    <form class="login-form" form action="session.php" method="post">
       <input type="text" placeholder="username" name="identifiant"/>
       <input type="password" placeholder="password" name="motdepass"/>
       <button type="submit" name="connexion">connexion</button>
